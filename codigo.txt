@@ -58,6 +58,10 @@ grehstjdyfugfhdjfmk {
 	fegrshtrtsrh
 
 	rehstrjdyehtrd
+
+	{
+		Experimento
+	}
 }
 
 
@@ -65,8 +69,6 @@ grehstjdyfugfhdjfmk {
 	dfewgrshtjyukarwgsehtdy
 	ewfthsreshtjdrt
 	fegrshtrtsrh
-
-	rehstrjdyehtrd
 
 	{
 		Registro
