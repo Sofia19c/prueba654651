@@ -37,6 +37,11 @@ grehstjdyfugfhdjfmk {
 	fegrshtrtsrh
 
 	rehstrjdyehtrd
+
+	{
+		Interfaz
+		Bug
+	}
 }
 
 grehstjdyfugfhdjfmk {
