@@ -68,6 +68,10 @@ grehstjdyfugfhdjfmk {
 	fegrshtrtsrh
 
 	rehstrjdyehtrd
+
+	{
+		Registro
+	}
 }
 
 grehstjdyfugfhdjfmk {
